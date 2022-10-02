@@ -5,7 +5,7 @@
 
 ## 我和苔丝的非凡夏日
 
-<div><img height="300" src="image\我和苔丝的非凡夏日.png" width="225" style="float:left;padding-right:20px;" />
+<div><img height="20%" src="image\我和苔丝的非凡夏日.png" width="15%" style="float:left;padding-right:20px;" />
     作为家庭中年纪最小的成员，萨姆因为害怕家人离开后的孤独，而在度假小岛上开始了自己秘密的“孤独训练”。
     而岛上古灵精怪的女孩苔丝则绞尽脑汁想要和素未谋面的生父见面。萨姆没想到这暑假的怦然心动不仅会打乱他
     培养自己适应孤独的训练安排，还会将他带入另一场冒险旅程中...
@@ -14,7 +14,7 @@
 
 ## 青春冒险王
 
-<div><img height="300" src="image\青春冒险王.png" width="225" style="float:left;padding-right:20px;" />
+<div><img height="20%" src="image\我和苔丝的非凡夏日.png" width="15%" style="float:left;padding-right:20px;" />
     总被班上同学戏称为小妞的青涩男孩麦考柏，与名字老被人联想成汽油的转学生瓦斯林，想为自己的苦闷找到出口，
     突发奇想计划了一场疯狂冒险。随着暑假来临，两个小鬼头一点都不想和家人共度无聊的夏天。一台割草机引擎与几片木板，
     他们以“土法炼钢”的创意打造出自己专属的“动力房车”，踏上横跨广大法国城镇的公路旅行......
