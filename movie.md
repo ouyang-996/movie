@@ -21,4 +21,14 @@
 </div>
 <div style="clear: both"></div>
 
+## 我和厄尔以及将死的女孩
+
+<div><img height="20%" src="image\我和厄尔以及将死的女孩.png" width="15%" style="float:left;padding-right:20px;" />
+    <p>高中生格雷戈性格善良却有点孤僻，他唯一的爱好是与死党厄尔拍摄短片，改编自己所喜爱经典电影，自娱自乐。
+    有一天，格雷戈结识了身患白血病的女孩蕾切尔，乐观开朗的蕾切尔改变了格雷戈原有的世界，两人十分谈得来，
+    格雷戈逐渐对蕾切尔萌生爱意，却不好意思说出口。就在此时，蕾切尔的病情加重，格雷戈意识到自己必须有所行动……
+    本片改编自Jesse Andrews的同名小说《Me and Earl and the Dying Girl》，影片剧本曾被誉为2012年的剧本黑名单。</p>
+</div>
+<div style="clear: both"></div>
+
 
